@@ -17,7 +17,7 @@ Go to [CelebA Dataset on Kaggle](https://www.kaggle.com/datasets/jessicali9530/c
 
 ## Instructions
 After downloading the dataset, follow the steps in **sections 1 and 2** of `InPainting.ipynb` to prepare the dataset and set up the training pipeline.  
-To see the results of the already trained model, run the code cells in `Demo.ipynb`.
+To see the results of the already trained model, run the code cells in `Demo.ipynb` after data preprocessing.
 
 ## Training
 To train the model on your own:
